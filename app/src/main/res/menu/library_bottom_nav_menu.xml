@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/library_nav_year"
+        android:title="@string/year" />
+    <item
+        android:id="@+id/library_nav_month"
+        android:title="@string/month" />
+    <item
+        android:id="@+id/library_nav_days"
+        android:title="@string/days" />
+    <item
+        android:id="@+id/library_nav_all_photos"
+        android:title="@string/all_photos" />
+</menu>

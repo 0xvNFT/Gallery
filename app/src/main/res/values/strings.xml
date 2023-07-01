@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="loading">Loading...\n</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="album">Album</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="library">Thư viện</string>
+    <string name="year">Năm</string>
+    <string name="month">Tháng</string>
+    <string name="days">Ngày</string>
+    <string name="all_photos">Tất cả ảnh</string>
+    <string name="add_to_favorite">Thêm vào mục yêu thích</string>
+    <string name="cho_b_n">Cho bạn</string>
+    <string name="nh_ng_i_a_i_m">Ảnh, Người, Địa điểm...</string>
+    <string name="t_m_ki_m">Tìm kiếm</string>
+</resources>
